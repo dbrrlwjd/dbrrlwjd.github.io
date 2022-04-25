@@ -39,7 +39,7 @@
 맵 제작이 거의 완료되었다.   
 <img src="./imgs/맵.png" width="450px" height="300px"></img>   
 캐릭터 에셋이 추가되었다.   
-<img src="./imgs/캐릭터.png" width="450px" height="300px"></img>   
+<img src="./imgs/캐릭터에셋.png" width="450px" height="300px"></img>   
 
 개발과제 :    
 맵 제작 마무리(라이트 추가, 문이나 선반 등의 오브젝트에 스크립트 설정)   
