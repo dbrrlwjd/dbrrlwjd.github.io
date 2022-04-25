@@ -17,7 +17,7 @@
 ## 캐릭터
 
  - 윌리엄   
- <img src="./imgs/플레이어.png" width="450px" height="300px"></img>      
+ <img src="./imgs/플레이어.png"></img>      
     
  - 베어   
  <img src="./imgs/베어.png" width="450px" height="300px"></img>   
