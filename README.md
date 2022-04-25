@@ -16,6 +16,21 @@
 
 ## 캐릭터
 
+ - 윌리엄
+ - <img src="./imgs/플레이어.png" width="450px" height="300px"></img>   
+ - 베어
+ - <img src="./imgs/베어.png" width="450px" height="300px"></img>
+ - 몽키
+ - <img src="./imgs/몽키.png" width="450px" height="300px"></img>
+ - 펭귄
+ - <img src="./imgs/펭귄.png" width="450px" height="300px"></img>
+ - 피그
+ - <img src="./imgs/피그.png" width="450px" height="300px"></img>
+ - 래빗
+ - <img src="./imgs/래빗.png" width="450px" height="300px"></img>
+ - 고트
+ - <img src="./imgs/.png" width="450px" height="300px"></img>
+
 ## 주차별 개발현황   
 
 ### 1주차 : 계획서 작성   
