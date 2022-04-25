@@ -29,7 +29,7 @@
 
 ### 3주차 : 상호작용 스크립트 구현  
 상호작용 스크립트를 구현하였다. 문을 클릭하면 여닫을 수 있다.   
-<img src="./imgs/.png" width="450px" height="300px"></img>   
+<img src="./imgs/click.png" width="450px" height="300px"></img>   
 캐릭터를 클릭하면 "click"이라는 문자열이 출력된다.   
 아직 캐릭터 에셋이 없어 3D오브젝트로 대체하였다.   
    
