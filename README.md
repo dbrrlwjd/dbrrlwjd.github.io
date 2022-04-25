@@ -29,17 +29,17 @@
 
 ### 3주차 : 상호작용 스크립트 구현  
 상호작용 스크립트를 구현하였다. 문을 클릭하면 여닫을 수 있다.   
+<img src="./imgs/qur.png" width="450px" height="300px"></img>   
 캐릭터를 클릭하면 "click"이라는 문자열이 출력된다.   
 아직 캐릭터 에셋이 없어 3D오브젝트로 대체하였다.   
-<img src="./imgs/qur.png" width="450px" height="300px"></img>   
    
 개발과제 : 맵 제작 및 캐릭터 에셋 필요     
 
 ### 4주차 : 맵 제작   
 맵 제작이 거의 완료되었다.   
-<img src="./imgs/qur.png" width="450px" height="300px"></img>
+<img src="./imgs/qur.png" width="450px" height="300px"></img>   
 캐릭터 에셋이 추가되었다.   
-<img src="./imgs/qur.png" width="450px" height="300px"></img>
+<img src="./imgs/qur.png" width="450px" height="300px"></img>   
 
 개발과제 :    
 맵 제작 마무리(라이트 추가, 문이나 선반 등의 오브젝트에 스크립트 설정 필요)   
