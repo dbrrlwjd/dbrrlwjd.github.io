@@ -111,6 +111,6 @@ UI 구현
 <img src="./imgs/유아이.png" width="450px" height="300px"></img>   
 
 개발과제 :    
-UI 스크립트 작성 필요
+UI 스크립트 작성 필요   
 raycast가 벽 가장자리를 통과하는 문제
 
