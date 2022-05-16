@@ -108,7 +108,7 @@ WASD로 이동하고 카메라가 마우스 커서를 따라 회전하도록 수
 ### 9주차 : 라운드 시스템 구현
 UI 구현   
 숨겨져 있는 오브젝트에 크로스헤어를 갖다대면 강조표시 되도록 구현   
-<img src="./imgs/스카이박스.png" width="450px" height="300px"></img>   
+<img src="./imgs/유아이.png" width="450px" height="300px"></img>   
 
 개발과제 :    
 UI 스크립트 작성 필요
