@@ -119,4 +119,4 @@ raycast가 벽 가장자리를 통과하는 문제
 <img src="./imgs/튜토리얼.png" width="450px" height="300px"></img>   
 
 개발과제 :    
-
+물리엔진 오류로 벽을 뚫는 버그 확인
