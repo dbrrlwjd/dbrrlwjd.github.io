@@ -126,4 +126,4 @@ raycast가 벽 가장자리를 통과하는 문제
 <img src="./imgs/버그.png" width="450px" height="300px"></img>   
 
 개발과제 :    
-
+애니메이션이 작동하지 않는 버그 발견
