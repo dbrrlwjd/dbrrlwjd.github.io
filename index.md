@@ -31,7 +31,7 @@
 # [관련 이미지 & 동영상]
 
 - 이미지  
-  <img src="./imgs/관련이미지.jpg">
+  <img src="./imgs/관련이미지.png">
 - 동영상 (4:20:00부분)
   [![](./imgs/그림.png)](https://www.youtube.com/watch?v=rkvdVhugTcc)
 
