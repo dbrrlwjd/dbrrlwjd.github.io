@@ -125,14 +125,14 @@ Unity3D 엔진을 사용하여 PC용 게임으로 개발할 계획입니다.
 
 |연번|오브젝트 이름(영문이름)|오브젝트 이미지|
 |:---:|:---:|:---:|
-|1|플레이어(Player)|![그림](./imgs/.png)|
-|2|폭탄(bomb)|![그림](./imgs/.png)|
-|3|열쇠(key)|![그림](./imgs/.png)|
-|4|단서(hint)|![그림](./imgs/.png)|
-|5|인벤토리(inventory)|![그림](./imgs/.png)|
-|6|문(door)|![그림](./imgs/.png)|
-|7|가구(funiture)|![그림](./imgs/.png)|
-|8|방(Room)|![그림](./imgs/.png)|
+|1|플레이어(Player)|![그림](./imgs/player.png)|
+|2|폭탄(bomb)|![그림](./imgs/bomb.png)|
+|3|열쇠(key)|![그림](./imgs/key.png)|
+|4|단서(hint)|![그림](./imgs/hint.png)|
+|5|인벤토리(inventory)|![그림](./imgs/inven.png)|
+|6|문(door)|![그림](./imgs/door.png)|
+|7|가구(funiture)|![그림](./imgs/furniture.png)|
+|8|방(Room)|![그림](./imgs/room.png)|
 
 <br><br>
 
